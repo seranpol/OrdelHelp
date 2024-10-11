@@ -1,0 +1,14 @@
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\bin\Debug\net8.0\OrdelHelp.exe
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\bin\Debug\net8.0\OrdelHelp.deps.json
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\bin\Debug\net8.0\OrdelHelp.runtimeconfig.json
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\bin\Debug\net8.0\OrdelHelp.dll
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\bin\Debug\net8.0\OrdelHelp.pdb
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.AssemblyInfoInputs.cache
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.AssemblyInfo.cs
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.csproj.CoreCompileInputs.cache
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.dll
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\refint\OrdelHelp.dll
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.pdb
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\OrdelHelp.genruntimeconfig.cache
+C:\Users\HenrikMolsgaard\source\repos\OrdelHelp\OrdelHelp\obj\Debug\net8.0\ref\OrdelHelp.dll
